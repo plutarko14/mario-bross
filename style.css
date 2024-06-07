@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    
+}
+.heading h1{
+    display: inline;
+
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+img{
+    width: 100%;
+}
+#start{
+font-size: 60px !important;
+
+
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
